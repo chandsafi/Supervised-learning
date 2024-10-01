@@ -84,7 +84,6 @@ pip install numpy pandas scikit-learn matplotlib seaborn
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Kainattkhan/Supervised-Learning-Algorithms.git
    ```
 2. Open the Jupyter Notebook files (`.ipynb`) in your environment (e.g., Jupyter Lab, Google Colab).
 3. Run the cells to see how each algorithm is implemented and applied to datasets.
